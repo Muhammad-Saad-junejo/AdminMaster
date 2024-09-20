@@ -1,0 +1,39 @@
+﻿@model List<Customers>
+
+@{
+    ViewData["Title"] = "Customer Setup";
+}
+
+<a asp-action="Reports">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+
+
+
+<h1 style="color:white; display:flex; justify-content:center;">Customer Report</h1>
+
+<table style="margin-top:40px" class="table text-white">
+    <tr>
+        <th>ID</th>
+        <th>Party Name</th>
+        <th>Address</th>
+        <th>Opening Date</th>
+       
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Cid</td>
+            <td>@item.Name</td>
+            <td>@item.Address</td>
+            <td>@item.Opening_Date</td>
+            
+
+        </tr>
+
+    }
+
+
+</table>

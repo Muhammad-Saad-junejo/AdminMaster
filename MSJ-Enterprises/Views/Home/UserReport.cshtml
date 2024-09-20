@@ -1,0 +1,36 @@
+﻿@model List<Login>
+@{
+    ViewData["Title"] = "Users";
+}
+
+<a asp-action="Reports" asp-controller="Home">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+
+
+
+<h1 style="color:white; display:flex; justify-content:center;">Users Report</h1>
+
+<table style="margin-top:40px" class="table text-white">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Role</th>
+            </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.uid</td>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Role</td>
+         
+           
+
+        </tr>
+
+    }
+</table>

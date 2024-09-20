@@ -1,0 +1,48 @@
+﻿@model List<SaleInvoice>
+
+@{
+    ViewData["Title"] = "Show Invoice";
+}
+
+<a asp-action="Transcation">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+<a asp-action="SaleInvoice">
+    <button class="btn btn-success">Create New Invoice</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Sale Invoices</h1>
+
+<table style="margin-top:20px" class="table text-white">
+    <tr>
+        <th>INVOICE #</th>
+        <th>Date</th>
+        <th>Party</th>
+        <th>Amount</th>
+     </tr>
+
+
+
+
+
+    @foreach (var item in Model)
+    {
+
+
+        <tr>
+            
+            <td>@item.ID</td>
+            <td>@item.Date</td>
+            <td>@item.Customers?.Name</td>
+            <td>
+                <a asp-action="Print" asp-route-id="@item.ID">
+                    <button class="btn btn-success">Preview</button>
+
+                </a>
+
+                
+            </td>
+        </tr>
+
+    }
+</table>

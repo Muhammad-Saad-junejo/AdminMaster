@@ -1,0 +1,64 @@
+﻿
+@model List<Bank>
+
+@{
+    ViewData["Title"] = "Entry view";
+}
+
+}
+<a asp-action="accounts">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<a asp-action="Debit">
+    <button class="btn btn-success">Add Debit Entry</button>
+</a>
+<a asp-action="Credit">
+    <button class="btn btn-info">Add Credit Entry</button>
+</a>
+
+
+
+<h1 style="color:white; display:flex; justify-content:center;">Entries Report</h1>
+
+<table class="table text-white" border="1" style="margin-top: 30px">
+    <tr>
+        <th>ID</th>
+        <th>Date</th>
+        <th>Party name</th>
+        <th>Payment Type</th>
+        <th>Transaction Type</th>
+        <th>Action</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Tid</td>
+            <td>@item.Date</td>
+            <td>@item.Customers?.Name</td>
+            <td>@item.PaymentType</td>
+            <td>
+            
+
+                    @(item.Debit > 0 ? "Debit" : "Credit")
+            
+               
+            </td>
+          <td>
+                
+                <a asp-action="DeleteEntry" asp-route-id="@item.Tid">
+
+                <button class="btn btn-danger">Delete</button>
+              </a>
+                <a asp-action="Voucher" asp-route-id="@item.Tid">
+
+                    <button class="btn btn-success">Print</button>
+                </a>
+          </td>
+
+        </tr>
+
+    }
+   
+
+</table>

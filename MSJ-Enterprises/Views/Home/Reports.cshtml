@@ -1,0 +1,98 @@
+﻿@{
+    ViewData["Title"] = "Reports";
+}
+
+<a asp-action="Index">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+<h1 style="color:white; display:flex; justify-content:center;">Reports</h1>
+<div class="container">
+    <div class="row justify-content-center ">
+
+
+        <div class="card-group" style="width: 35rem; margin-top:10px">
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="PurReport" asp-controller="Home">
+                    <img src="~/image/pur.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Purchase Reports</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="SaleReport" asp-controller="Home">
+                    <img src="~/image/sale.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Sale Reports</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="BankReport" asp-controller="Home">
+                    <img src="~/image/bank.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Bank Reports</button>
+                    </div>
+                </a>
+            </div>
+            
+
+         
+
+        </div>
+
+
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center ">
+
+
+        <div class="card-group" style="width: 35rem; margin-top:10px">
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="ItemReport" asp-controller="Home">
+                    <img src="~/image/stock.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Item Report</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="CustomerReport" asp-controller="Home">
+                    <img src="~/image/customer.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Customers Reports</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="UserReport" asp-controller="Home">
+                    <img src="~/image/user.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Users Reports</button>
+                    </div>
+                </a>
+            </div>
+
+
+
+
+        </div>
+
+
+    </div>
+</div>

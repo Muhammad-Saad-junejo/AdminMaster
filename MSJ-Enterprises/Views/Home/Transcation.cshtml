@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Transcation";
+}
+
+<a asp-action="Index">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Transcation</h1>
+<div class="container">
+    <div class="row justify-content-center ">
+
+
+        <div class="card-group" style="width: 25rem;">
+            <div class="card bg-transparent text-dark">
+                <a asp-action="ShowPurchaseInvoices" asp-controller="Home">
+                    <img src="~/image/pur.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Purchase Invoice</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark">
+                <a asp-action="ShowSaleInvoices" asp-controller="Home">
+                    <img src="~/image/sale.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Sale Invoice</button>
+                    </div>
+                </a>
+            </div>
+          
+            
+
+        </div>
+
+
+    </div>
+</div>

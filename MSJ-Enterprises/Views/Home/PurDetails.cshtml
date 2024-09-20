@@ -1,0 +1,38 @@
+﻿@model List<PurchaseItem>
+
+@{
+    ViewData["Title"] = "Purchase Detail Report";
+}
+
+
+<a asp-action="PurReport">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Purchase Detail Report</h1>
+
+
+<table style="margin-top:20px" class="table text-white" id="saleTable">
+    <tr>
+        <th>ID</th>
+        <th>Item Name</th>
+        <th>Qty</th>
+        <th>Purchase Rate</th>
+        <th>Discount</th>
+        <th>Amount</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Item?.Name</td>
+            <td class="iQty">@item.Qty</td>
+            <td class="iRate">@item.Rate</td>
+            <td class="iDiscount">@item.Discount</td>
+
+            <td class="iamount">
+                @item.Amount
+            </td>
+        </tr>
+    }
+</table>

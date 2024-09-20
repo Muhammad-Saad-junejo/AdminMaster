@@ -1,0 +1,36 @@
+﻿@model List<PurchaseInvoice>
+
+@{
+    ViewData["Title"] = "Purchase Report";
+}
+
+<a asp-action="Reports">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Purchase Report</h1>
+
+<table style="margin-top:20px" class="table text-white">
+    <tr>
+        <th>Invoice No</th>
+        <th>Date</th>
+        <th>Party</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Date</td>
+            <td>@item.Customers?.Name</td>
+         
+                       <td>
+                <a asp-action="PurDetails" asp-route-id="@item.ID">
+                    <button class="btn btn-info">Details</button>
+
+                </a>
+
+            </td>
+        </tr>
+    }
+    
+</table>

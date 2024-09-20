@@ -1,0 +1,41 @@
+﻿@model Item
+
+@{
+    ViewData["Title"] = "Add Item";
+}
+
+<a asp-action="ItemSetup">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+<h1 style="color:white; display:flex; justify-content:center;">Add Item</h1>
+<table class="table text-white" >
+    <tr>
+        <th>ID</th>
+        <th>Item Name</th>
+        <th>Pack</th>
+        <th>Purchase Rate</th>
+        <th>Sale Rate</th>
+        <th>Action</th>
+    </tr>
+
+<tr>
+        <form method="post">
+       <td><input type="hidden" /></td>
+        <td><input asp-for="Name"  placeholder="Item name" /></td>
+        <td><input asp-for="Pack" placeholder="Pack" /></td>
+        <td><input asp-for="Purchase_Rate" placeholder="Purchase Rate" /></td>
+        <td><input asp-for="Sale_Rate" placeholder="Sale Rate" /></td>
+        <td>
+
+            <input type="submit" class="btn btn-success" value="Add Item" />
+        </td>
+
+        </form>
+
+    </tr>
+
+
+
+</table>
+

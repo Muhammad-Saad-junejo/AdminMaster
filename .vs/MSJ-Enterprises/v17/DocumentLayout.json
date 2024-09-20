@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\debit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\debit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\credit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\credit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\saleinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\saleinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\showsaleinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\showsaleinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\showpurchaseinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\showpurchaseinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\purpreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\purpreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\voucher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\voucher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\viewentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\viewentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\saleinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\saleinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\migrations\\20240802181840_editlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\migrations\\20240802181840_editlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\migrations\\20240719183655_usermig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\migrations\\20240719183655_usermig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\purchaseinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\purchaseinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\userreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\userreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\transcation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\transcation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\stockreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\stockreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\salereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\salereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\saledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\saledetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\purreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\purreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\purdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\purdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\purchaseinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\purchaseinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\itemsetup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\itemsetup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\itemreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\itemreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\edititem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\edititem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\customersetup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\customersetup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\customerreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\customerreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\bankreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\bankreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\purchaseitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\purchaseitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\msj-enterprises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\msj-enterprises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\oops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\oops.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\saleinvoiceitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\saleinvoiceitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\saleinvoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\saleinvoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\purchaseinvoicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\purchaseinvoicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\migrations\\20240723113047_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\migrations\\20240723113047_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|c:\\users\\cz 3\\desktop\\msj-enterprises\\msj-enterprises\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F90199FE-1101-4F5F-8D79-AF8F7C0E3237}|MSJ-Enterprises\\MSJ-Enterprises.csproj|solutionrelative:msj-enterprises\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurPreview.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurPreview.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\PurPreview.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurPreview.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\PurPreview.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T19:54:02.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowPurchaseInvoices.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ShowPurchaseInvoices.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\ShowPurchaseInvoices.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ShowPurchaseInvoices.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\ShowPurchaseInvoices.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:33:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowSaleInvoices.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ShowSaleInvoices.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\ShowSaleInvoices.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ShowSaleInvoices.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\ShowSaleInvoices.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:20:14.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\SaleInvoice.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\SaleInvoice.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\SaleInvoice.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\SaleInvoice.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T20:11:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Credit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Credit.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Credit.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Credit.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Credit.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwEwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T18:08:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Debit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Debit.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Debit.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Debit.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Debit.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T15:03:42.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Voucher.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Voucher.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Voucher.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Voucher.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Voucher.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAswEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:42:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewEntry.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ViewEntry.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\ViewEntry.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ViewEntry.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\ViewEntry.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T15:06:59.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Print.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Print.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Print.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Print.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Print.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T18:12:53.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MSJ-Enterprises\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-26T18:13:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:57:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleInvoice.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\SaleInvoice.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleInvoice.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\SaleInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:55:43.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleItem.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\SaleItem.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleItem.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\SaleItem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:31:10.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240719183655_usermig.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Migrations\\20240719183655_usermig.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Migrations\\20240719183655_usermig.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Migrations\\20240719183655_usermig.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Migrations\\20240719183655_usermig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:42:09.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240802181840_editlogin.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Migrations\\20240802181840_editlogin.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Migrations\\20240802181840_editlogin.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Migrations\\20240802181840_editlogin.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Migrations\\20240802181840_editlogin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:42:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\AddUser.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\AddUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T18:23:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PurchaseInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseInvoice.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\PurchaseInvoice.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseInvoice.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\PurchaseInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:40:56.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACgDAAAAAAAAAAAAACgDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:05:32.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:46:34.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Transcation.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Transcation.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Transcation.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Transcation.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Transcation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T19:28:57.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Bank.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\Bank.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:23:12.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\UserReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\UserReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\UserReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\UserReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T18:51:30.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StockReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\StockReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\StockReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\StockReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\StockReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T15:06:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MSJ-Enterprises.csproj",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\MSJ-Enterprises.csproj",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\MSJ-Enterprises.csproj",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\MSJ-Enterprises.csproj",
+              "RelativeToolTip": "MSJ-Enterprises\\MSJ-Enterprises.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T22:30:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Users.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T18:12:37.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SaleReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\SaleReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\SaleReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\SaleReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\SaleReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:17:17.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SaleDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\SaleDetail.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\SaleDetail.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\SaleDetail.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\SaleDetail.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:17:07.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Reports.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Reports.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Reports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T19:37:24.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PurReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\PurReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\PurReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T18:00:04.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PurDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurDetails.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\PurDetails.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurDetails.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\PurDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T18:14:14.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PurchaseInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurchaseInvoice.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\PurchaseInvoice.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\PurchaseInvoice.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\PurchaseInvoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:31:55.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Master.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Master.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Master.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Master.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Master.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T18:29:05.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemSetup.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ItemSetup.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\ItemSetup.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ItemSetup.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\ItemSetup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T19:19:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ItemReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ItemReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\ItemReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\ItemReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\ItemReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T17:52:22.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\EditItem.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\EditItem.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\EditItem.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\EditItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:14:48.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\EditCustomer.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\EditCustomer.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\EditCustomer.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\EditCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T21:25:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerSetup.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\CustomerSetup.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\CustomerSetup.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\CustomerSetup.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\CustomerSetup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T17:55:41.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\CustomerReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\CustomerReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\CustomerReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\CustomerReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T17:55:38.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BankReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\BankReport.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\BankReport.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\BankReport.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\BankReport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:48:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\AddItem.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\AddItem.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\AddItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:09:08.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\AddCustomer.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\AddCustomer.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:32:48.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Accounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Accounts.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Accounts.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Accounts.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Accounts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T12:26:09.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PurchaseItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseItemModel.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\PurchaseItemModel.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseItemModel.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\PurchaseItemModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA6wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:51:52.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Oops.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Oops.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Oops.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Oops.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Oops.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:52:04.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MSJ-Enterprises\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-25T19:06:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T18:15:14.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Program.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Program.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Program.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:12:44.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SaleInvoiceItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleInvoiceItemViewModel.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\SaleInvoiceItemViewModel.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleInvoiceItemViewModel.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\SaleInvoiceItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:03:05.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SaleInvoiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleInvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\SaleInvoiceViewModel.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\SaleInvoiceViewModel.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\SaleInvoiceViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:01:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Login.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\Login.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:53:37.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PurchaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseItem.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\PurchaseItem.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseItem.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\PurchaseItem.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:41:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PurchaseInvoiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseInvoiceModel.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\PurchaseInvoiceModel.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\PurchaseInvoiceModel.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\PurchaseInvoiceModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:51:36.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:57:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MSJ-Enterprises\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:42:14.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Customers.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\Customers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:15:56.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240723113047_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Migrations\\20240723113047_mig1.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Migrations\\20240723113047_mig1.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Migrations\\20240723113047_mig1.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Migrations\\20240723113047_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:30:48.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\Models\\Item.cs",
+              "RelativeToolTip": "MSJ-Enterprises\\Models\\Item.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:18:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\appsettings.json",
+              "RelativeDocumentMoniker": "MSJ-Enterprises\\appsettings.json",
+              "ToolTip": "C:\\Users\\cz 3\\Desktop\\MSJ-Enterprises\\MSJ-Enterprises\\appsettings.json",
+              "RelativeToolTip": "MSJ-Enterprises\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T18:28:58.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

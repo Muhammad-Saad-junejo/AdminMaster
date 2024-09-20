@@ -1,0 +1,52 @@
+﻿@model List<Bank>
+@{
+    ViewData["Title"] = "Bank Report";
+}
+
+<a asp-action="Reports">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Bank Report</h1>
+
+<table class="table text-white" border="1" style="margin-top: 30px">
+    <tr style="background-color:white; color:black">
+        <th>ID</th>
+        <th>Date</th>
+        <th>Party name</th>
+        <th>Payment Type</th>
+        <th>Chq #</th>
+        <th>Description</th>
+        <th>Debit</th>
+        <th>Credit</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Tid</td>
+            <td>@item.Date</td>
+            <td>@item.Customers?.Name</td>
+            <td>@item.PaymentType</td>
+            <td>@item.ChqNo</td>
+            <td>@item.Description</td>
+            <td class="debit">@item.Debit</td>
+            <td class="credit">@item.Credit</td>
+        </tr>
+
+    }
+    
+
+    <tr style="background-color:black; color:white">
+       <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><h5>Total</h5></td>
+        <td><h5 class="Dtotal"></h5></td>
+        <td><h5 class="Ctotal"></h5></td>
+    </tr>
+</table>
+<div style="display:flex; justify-content:end">
+
+<h3 class="text-white">Remaining Balance =</h3> <h3 class="Total" style="font-weight:bold; color:white; margin-left:25px; ">0</h3>
+</div>

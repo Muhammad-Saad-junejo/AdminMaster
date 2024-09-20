@@ -1,0 +1,100 @@
+﻿@model PurchaseInvoiceModel
+
+
+@{
+    ViewData["Title"] = "Purchase Invoice";
+
+}
+
+<a asp-action="ShowPurchaseInvoices">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Purchase Invoice Genration</h1>
+<form class="row g-3" style="color:white; margin-top: 20px" method="post" asp-action="PurchaseInvoice">
+    <div class="col-md-3">
+        <label for="date" class="form-label">Date</label>
+        <input type="date" asp-for="Date" class="form-control" id="date">
+    </div>
+    <div class="col-md-3">
+        <label for="invoice" class="form-label">Invoice Number</label>
+        <input asp-for="Invoice" disabled class="form-control" id="invoice">
+    </div>
+
+    <div class="col-md-9">
+        <label for="party" class="form-label">Party name</label>
+        <select id="party" asp-for="CustomerId" asp-items="ViewBag.Customers" class="form-select">
+            <option selected>Choose Party...</option>
+
+        </select>
+    </div>
+
+    <table id="myTable" class="table text-white">
+        <tr>
+
+            <th>Item Name</th>
+            <th>QTY</th>
+            <th>Rate</th>
+            <th>Discount</th>
+            <th>Amount</th>
+          
+        </tr>
+        @for (int i = 0; i < Model.PurchaseItemModels.Count; i++)
+        {
+
+
+            <tr>
+
+
+                <td class="col-md-8">
+                    <div>
+                        <label for="item" class="form-label"></label>
+                        <select id="item" asp-for="PurchaseItemModels[i].ItemId" class="form-select" asp-items="ViewBag.Items">
+                            <option selected>Choose Item...</option>
+
+                        </select>
+                    </div>
+                </td>
+                <td class="col-md-1">
+                    <div>
+                        <label for="qty" class="form-label"></label>
+                        <input type="number" asp-for="PurchaseItemModels[i].Quantity" oninput="calculateAmount(this)" class="form-control qty">
+                    </div>
+                </td>
+
+                <td class="col-md-1">
+                    <div>
+                        <label for="rate" class="form-label"></label>
+                        <input type="number" asp-for="PurchaseItemModels[i].Rate" oninput="calculateAmount(this)" class="form-control rate">
+                    </div>
+                </td>
+                <td class="col-md-1">
+                    <div>
+                        <label for="discount" class="form-label"></label>
+                        <input type="number" asp-for="PurchaseItemModels[i].Discount" class="form-control discount" oninput="calculateAmount(this)">
+                    </div>
+
+                </td>
+                <td class="col-md-1">
+                    <label for="amount" class="form-label"></label>
+                    <h4 style="margin-top:8px" class="form-control amount">@Model.PurchaseItemModels[i].Amount</h4>
+                </td>
+
+                <td class="col-md-1">
+                    <div class="button-container">
+
+    @*                     <button onclick="addRow()" type="button" id="add" class="btn btn-success form-control">+</button>
+ *@
+                    </div>
+                </td>
+
+            </tr>
+        }
+    </table>
+
+    <h2>Total: <h3 id="totalAmount">@Model.Total</h3></h2>
+
+
+
+
+    <input type="submit" class="btn btn-info" value="Save" />
+</form>

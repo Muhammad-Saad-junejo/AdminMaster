@@ -1,0 +1,42 @@
+﻿@model Login
+
+@{
+    ViewData["Title"] = "Login Page";
+}
+@{
+    if (TempData["success"] != null)
+    {
+        <div style="background-color:red; color:white; text-align:center">@TempData["success"]</div>
+    }
+    if (ViewBag.LoginError != null)
+    {
+        <div style="background-color:red; color:white; text-align:center">@ViewBag.LoginError</div>
+
+    }
+}
+
+
+<h1 style="color:white; display:flex; justify-content:center; margin-top:80px">Please Login First</h1>
+<form class="login-form" method="post">
+    <p class="login-text">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-lock fa-stack-1x"></i>
+        </span>
+    </p>
+    <input asp-for="Email" class="login-username" autofocus="true" required="true" placeholder="Email" style="border:2px solid white" />
+    <span asp-validation-for="Email" style="color:red"></span>
+    <select asp-for="Role" class="login-username" autofocus="true" required="true" style="border:2px solid white">
+        <option value="">Select Role</option>
+        <option value="Admin">Admin</option>
+        <option value="Manager">Manager</option>
+        <option value="Accountant">Accountant</option>
+    </select>
+    <input asp-for="Password" class="login-password" required="true" placeholder="Password" style="border:2px solid white" />
+    <span asp-validation-for="Password" style="color:red"></span>
+
+    <input type="submit"  value="Login" class="login-submit" />
+</form>
+
+<div class="underlay-photo"></div>
+<div class="underlay-black"></div> 

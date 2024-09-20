@@ -1,0 +1,35 @@
+﻿@model List<SaleInvoice>
+
+@{
+    ViewData["Title"] = "Sale Report";
+}
+
+<a asp-action="Reports">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Sale Report</h1>
+
+<table style="margin-top:20px" class="table text-white">
+    <tr>
+        <th>ID</th>
+        <th>Date</th>
+        <th>Party</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        
+    <tr>
+        <td>@item.ID</td>
+        <td>@item.Date</td>
+        <td>@item.Customers?.Name</td>
+        <td>
+            <a asp-action="SaleDetail" asp-route-id="@item.ID">
+                <button class="btn btn-success">Details</button>
+
+            </a>
+
+        </td>
+    </tr>
+    }
+</table>

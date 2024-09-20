@@ -1,0 +1,52 @@
+﻿@model Login
+
+@{
+    ViewData["Title"] = "Add User";
+}
+
+<a asp-action="Users">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+<h1 style="color:white; display:flex; justify-content:center; margin-top:40px">Add User</h1>
+
+
+<form class="login-form" method="post">
+    <p class="login-text">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-lock fa-stack-1x"></i>
+        </span>
+    </p>
+
+
+    <input asp-for="Name" class="login-username" autofocus="true" required="true" placeholder="Name" style="border:2px solid white" />
+    <span asp-validation-for="Name" style="color:red"></span>
+
+
+
+
+    <input asp-for="Email" class="login-username" autofocus="true" required="true" placeholder="Email" style="border:2px solid white" />
+    <span asp-validation-for="Email" style="color:red"></span>
+    
+    
+    
+    <input asp-for="Password" class="login-password" required="true" placeholder="Password" style="border:2px solid white" />
+    <span asp-validation-for="Password" style="color:red"></span>
+
+    
+    <select asp-for="Role" class="login-username" autofocus="true" required="true" style="border:2px solid white">
+        <option value="">Select Role</option>
+        <option value="Admin">Admin</option>
+        <option value="Manager">Manager</option>
+        <option value="Accountant">Accountant</option>
+</select>
+
+
+
+
+    <input style="margin-top:60px" type="submit" value="Add User" class="login-submit" />
+</form>
+
+<div class="underlay-photo"></div>
+<div class="underlay-black"></div> 

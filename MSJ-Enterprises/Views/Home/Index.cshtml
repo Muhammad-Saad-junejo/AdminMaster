@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+
+
+<a asp-action="Logout" asp-controller="Home">
+    <button class="btn btn-dark">Logout</button>
+</a>
+
+ 
+<div class="container">
+    <div class="row justify-content-center ">
+
+
+        <div class="card-group" style="width: 40rem; margin-top: 90px">
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="Master" asp-controller="Home">
+                    <img src="~/image/master.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Master Entites</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="Transcation" asp-controller="Home">
+                    <img src="~/image/tran.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Transaction</button>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="Accounts" asp-controller="Home">
+                    <img src="~/image/account.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Accounts</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="Reports" asp-controller="Home">
+                    <img src="~/image/reports.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Reports</button>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+    </div>
+</div>

@@ -1,0 +1,307 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.button-container {
+    margin-top:25px;
+    display: flex;
+    gap: 5px;
+}
+
+    .button-container button {
+        flex: 1;
+    }
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+
+    background:url(../image/backg.jpg);
+    background-size: cover;
+    
+
+}
+
+
+#heading {
+    
+    position: absolute;
+    white-space: nowrap;
+    animation: floatText 4s infinite alternate ease-in-out;
+}
+nav {
+    height: 70px
+   
+ 
+}
+
+@-webkit-keyframes floatText {
+    from {
+        left: 00%;
+    }
+
+    to {
+        /* left: auto; */
+        left: 75%;
+    }
+}
+
+
+
+/*login form*/
+
+
+
+
+body {
+    font-family: 'Open Sans';
+    font-weight: 100;
+
+    
+}
+
+input {
+    :: -webkit-input-placeholder
+
+{
+    color: rgba(255,255,255,0.7);
+}
+
+::-moz-placeholder {
+    color: rgba(255,255,255,0.7);
+}
+
+:-ms-input-placeholder {
+    color: rgba(255,255,255,0.7);
+}
+
+&:focus {
+    outline: 0 transparent solid;
+    :: -webkit-input-placeholder
+
+{
+    color: rgba(0,0,0,0.7);
+}
+
+::-moz-placeholder {
+    color: rgba(0,0,0,0.7);
+}
+
+:-ms-input-placeholder {
+    color: rgba(0,0,0,0.7);
+}
+
+}
+}
+
+.login-form {
+    //background: #222;
+    //box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+    
+    
+    min-height: 10rem;
+    margin: auto;
+    max-width: 50%;
+    padding: .5rem;
+}
+
+.login-text {
+   
+    color: white;
+    font-size: 1.5rem;
+    margin: 0 auto;
+    max-width: 50%;
+    padding: .5rem;
+    text-align: center;
+
+{
+    color: black;
+}
+
+}
+
+.login-username, .login-password {
+    background: transparent;
+    border: 0 solid;
+    border-bottom: 1px solid rgba(white, .5);
+    color: white;
+    display: block;
+    margin: 1rem;
+    padding: .5rem;
+    transition: 250ms background ease-in;
+    width: calc(100% - 3rem);
+    &:focus
+
+{
+    background: white;
+    color: black;
+    transition: 250ms background ease-in;
+}
+
+}
+
+
+
+.login-submit {
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    display: block;
+    margin: 1rem auto;
+    min-width: 1px;
+    padding: .25rem;
+    transition: 250ms background ease-in;
+    &:hover, &:focus
+{
+    background: white;
+    color: black;
+    transition: 250ms background ease-in;
+}
+
+}
+
+
+
+
+[class*=underlay] {
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.underlay-photo {
+    animation: hue-rotate 6s infinite;
+    background: url('https://31.media.tumblr.com/41c01e3f366d61793e5a3df70e46b462/tumblr_n4vc8sDHsd1st5lhmo1_1280.jpg');
+    background-size: cover;
+    -webkit-filter: grayscale(30%);
+    z-index: -1;
+}
+
+.underlay-black {
+    background: rgba(0,0,0,0.7);
+    z-index: -1;
+}
+
+@keyframes hue-rotate {
+    from {
+        -webkit-filter: grayscale(30%) hue-rotate(0deg);
+    }
+
+    to {
+        -webkit-filter: grayscale(30%) hue-rotate(360deg);
+    }
+}
+
+
+
+
+/*invoice printig */
+
+/* A4 size ke page ke liye container */
+.a4-container {
+    width: 21cm; /* A4 width */
+    height: 25.7cm; /* A4 height */
+    position: relative;
+    margin: 0 auto;
+    background-color: white; /* Page background color */
+    padding: 1cm; /* Add padding to ensure content is not stuck to the edges */
+    box-sizing: border-box;
+}
+
+.table-bordered {
+    border: 1px solid #000; /* Table border */
+    border-collapse: collapse; /* Ensure borders collapse properly */
+}
+
+    .table-bordered th, .table-bordered td {
+        border: 1px solid #000; /* Table cell border */
+        padding: 8px; /* Cell padding */
+        text-align: left; /* Cell text alignment */
+    }
+
+.table th, .table td {
+    vertical-align: middle; /* Center cell content vertically */
+}
+
+@media print {
+   
+
+    .a4-container {
+        width: 100%;
+       
+       
+    }
+
+    .table-bordered th, .table-bordered td {
+        padding: 8px;
+    }
+    .header{
+        display:none;
+    }
+}
+
+.signature-container {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.signature-block {
+    width: 40%;
+    text-align: center;
+}
+
+.signature-line {
+    width: 100%;
+    border-top: 1px solid black;
+    margin: 0 auto;
+}
+
+.signature-text {
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.message {
+    text-align: center;
+    color:white;
+    
+}
+
+    
+
+    .message h1 {
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+
+    .message p {
+        font-size: 30px;
+    }

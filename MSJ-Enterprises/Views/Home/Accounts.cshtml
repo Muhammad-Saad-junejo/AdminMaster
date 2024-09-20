@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Accounts";
+}
+
+<a asp-action="Index">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+<h1 style="color:white; display:flex; justify-content:center;">Accounts</h1>
+
+<div class="container">
+    <div class="row justify-content-center ">
+
+
+        <div class="card-group" style="width: 32rem;">
+            <div class="card bg-transparent text-dark" style="margin-top:40px">
+                <a asp-action="Debit" asp-controller="Home">
+                    <img src="~/image/jv.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Debit</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="Credit" asp-controller="Home">
+                    <img src="~/image/rv.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">Credit</button>
+                    </div>
+                </a>
+            </div>
+            <div class="card bg-transparent text-dark" style="width: 7rem">
+                <a asp-action="ViewEntry" asp-controller="Home">
+                    <img src="~/image/View.png"
+                         class="card-img-top"
+                         alt="..." />
+                    <div class="card-body text-center">
+                        <button class="btn btn-dark">View Entry</button>
+                    </div>
+                </a>
+            </div>
+
+
+        </div>
+
+
+    </div>
+</div>

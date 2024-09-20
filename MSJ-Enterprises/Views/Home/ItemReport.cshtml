@@ -1,0 +1,38 @@
+﻿@model List<Item>
+@{
+    ViewData["Title"] = "Item Report";
+}
+
+<a asp-action="Reports" asp-controller="Home">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+
+
+
+
+<h1 style="color:white; display:flex; justify-content:center;">Items Report</h1>
+
+<table style="margin-top:40px" class="table text-white">
+    <tr>
+        <th>ID</th>
+        <th>Item Name</th>
+        <th>Pack</th>
+        <th>Purchase Rate</th>
+        <th>Sale Rate</th>
+       
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Iid</td>
+            <td>@item.Name</td>
+            <td>@item.Pack</td>
+            <td>@item.Purchase_Rate</td>
+            <td>@item.Sale_Rate</td>
+            
+        </tr>
+
+    }
+</table>

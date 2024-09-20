@@ -1,0 +1,86 @@
+﻿@model Bank
+
+@{
+    ViewData["Title"] = "Print Voucher";
+}
+
+<a asp-action="ViewEntry" style="float:right">
+    <button class="btn btn-dark">Go Back</button>
+</a>
+
+<a onclick="printA4(); return false;" style="float:right">
+    <button class="btn btn-success">Print</button>
+</a>
+
+<div class="a4-container">
+    <h2 class="text-center" style="font-weight:bold; padding-top:30px; font-size: 24px;font-family:'Times New Roman', Times, serif">@(Model.Debit > 0 ? "Debit" : "Credit") Voucher</h2>
+
+    <h1 style="font-weight:bold; text-align:center; padding-top:20px; font-size: 40px; font-family:'Times New Roman', Times, serif">MSJ ENTERPRISES</h1>
+    <h2 style="font-weight:bold; text-align:center; font-size: 20px;font-family:'Times New Roman', Times, serif">Address: 22/29 Sector 11-D New Karachi Pakistan</h2>
+    <h2 style="font-weight:bold; text-align:center; font-size: 20px;font-family:'Times New Roman', Times, serif">Email: muhammadsaadjunejo@gmail.com Contact: 0312-2196252</h2>
+
+    <table class="table table-bordered" style="margin-top:50px; width:100%; border:2px solid black;">
+        <tr>
+            <th>Transaction ID</th>
+            <td>@Model.Tid</td>
+        </tr>
+  <tr>
+            <th>Transaction Date:</th>
+            <td>@Model.Date</td>
+
+        </tr>
+        <tr>
+            <th>Party Name</th>
+            <td>@Model.Customers?.Name</td>
+        </tr>
+
+        <tr>
+            <th>Payment Method</th>
+            <td>@Model.PaymentType</td>
+            
+        </tr>
+        <tr>
+            <th>Cheque #</th>
+            <td>@Model.ChqNo</td>
+
+        </tr>
+
+        <tr>
+            <th>Payment Description</th>
+            <td>@Model.Description</td>
+
+        </tr>
+        <tr>
+            <th>Transaction Type</th>
+            <td>
+
+
+                @(Model.Debit > 0 ? "Debit" : "Credit")
+
+            </td>
+        </tr>
+
+        <tr>
+            <th>Amount</th>
+            <td>
+                @(Model.Debit > 0 ? Model.Debit : Model.Credit)
+            </td>
+
+        </tr>
+    </table>
+
+
+    <div class="signature-container">
+        <div class="signature-block">
+            <div class="signature-line"></div>
+            <div class="signature-text">Admin Signature</div>
+        </div>
+        <div class="signature-block">
+            <div class="signature-line"></div>
+            <div class="signature-text">Customer Signature</div>
+        </div>
+    </div>
+
+
+</div>
+
